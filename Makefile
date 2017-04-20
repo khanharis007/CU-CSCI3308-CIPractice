@@ -1,6 +1,6 @@
 # Andy Sayler
 # CI Practice
-# Summer 2014
+# Summer 2014te
 
 CC = gcc
 CFLAGS = -c -g -Wall -Wextra
